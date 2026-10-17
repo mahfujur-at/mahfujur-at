@@ -8,8 +8,6 @@
 
 <img src="./hack-intro.svg" width="100%" alt="Hack intro animation"/>
 
-<img src="./matrix-banner.svg" width="100%" alt="Mahfujur Rahman - IT Support and Technician"/>
-
 ![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-IT_Support_in_Austria-22c55e?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Location-Bangladesh-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=googlemaps&logoColor=60a5fa)
 
