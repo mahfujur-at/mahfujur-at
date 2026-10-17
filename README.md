@@ -2,20 +2,16 @@
 
 <div align="center">
 
-<img src="./matrix-banner.svg" width="100%" alt="Mahfujur Rahman - IT Support and Technician"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mahfujur+%F0%9F%91%8B;IT+Support+Technician+%7C+4%2B+years;300%2B+computers+fixed+%F0%9F%92%BB;WordPress+%26+Elementor+Developer;Open+to+IT+Support+jobs+in+Austria+%F0%9F%87%A6%F0%9F%87%B9" alt="Typing animation" />
 </a>
 
-<br/>
+<img src="./hack-intro.svg" width="100%" alt="Hack intro animation"/>
+
+<img src="./matrix-banner.svg" width="100%" alt="Mahfujur Rahman - IT Support and Technician"/>
 
 ![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-IT_Support_in_Austria-22c55e?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Location-Bangladesh-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=googlemaps&logoColor=60a5fa)
-
-<br/>
-
-<img src="./hack-intro.svg" width="100%" alt="Hack intro animation"/>
 
 </div>
 
@@ -145,14 +141,14 @@ Since 2022 I have worked as a self-employed technician: I've fixed **300+ comput
 
 <div align="center">
 
-<a href="mailto:mahfujur.at@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=60a5fa" alt="Email"/></a>
-<a href="https://wa.me/8801332111908"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=60a5fa" alt="WhatsApp"/></a>
-<a href="https://www.linkedin.com/in/md-mahfujur-rahman28b61"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/profile.php?id=61552078375726"><img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=60a5fa" alt="Facebook"/></a>
-<a href="https://mahfujur-at.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="Portfolio"/></a>
+<a href="mailto:mahfujur.at@gmail.com"><img src="https://img.shields.io/badge/Email-mahfujur.at%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+<a href="https://wa.me/8801332111908"><img src="https://img.shields.io/badge/WhatsApp-Mahfujur%20Rahman-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/md-mahfujur-rahman28b61"><img src="https://img.shields.io/badge/LinkedIn-Mahfujur%20Rahman-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/profile.php?id=61552078375726"><img src="https://img.shields.io/badge/Facebook-Mahfujur%20Rahman-3b82f6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/></a>
+<a href="https://mahfujur-at.github.io"><img src="https://img.shields.io/badge/Portfolio-mahfujur--at.github.io-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,100:3b82f6&height=110&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:3b82f6,100:6366f1&text=MD.%20MAHFUJUR%20RAHMAN&fontSize=32&fontColor=ffffff&fontAlignY=62&desc=IT%20Support%20%26%20Technician%20%7C%20Bangladesh&descSize=15&descAlignY=82" alt="footer" width="100%"/>
 
 </div>
