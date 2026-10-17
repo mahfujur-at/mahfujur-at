@@ -117,13 +117,7 @@ Since 2022 I have worked as a self-employed technician: I've fixed **300+ comput
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujur-at&background=0D1117&ring=3B82F6&fire=38BDF8&currStreakLabel=60A5FA&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=3B82F6" alt="streak" />
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahfujur-at&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfujur-at&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 
 </div>
 
@@ -141,6 +135,6 @@ Since 2022 I have worked as a self-employed technician: I've fixed **300+ comput
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:3b82f6,100:6366f1&text=MD.%20MAHFUJUR%20RAHMAN&fontSize=32&fontColor=ffffff&fontAlignY=62&desc=IT%20Support%20%26%20Technician%20%7C%20Bangladesh&descSize=15&descAlignY=82" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:3b82f6,100:6366f1&text=MD.%20MAHFUJUR%20RAHMAN&fontSize=32&fontColor=ffffff&fontAlignY=62&desc=IT%20Support%20and%20Technician%20%7C%20Bangladesh&descSize=15&descAlignY=82" alt="footer" width="100%"/>
 
 </div>
