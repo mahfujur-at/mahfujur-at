@@ -129,14 +129,6 @@ Since 2022 I have worked as a self-employed technician: I've fixed **300+ comput
 
 ---
 
-## 🐍 ~/contributions
-
-<div align="center">
-<img alt="snake animation" src="https://raw.githubusercontent.com/mahfujur-at/mahfujur-at/output/github-contribution-grid-snake-dark.svg">
-</div>
-
----
-
 ## 📫 ~/contact
 
 <div align="center">
