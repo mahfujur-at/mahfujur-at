@@ -22,7 +22,7 @@
 | | |
 |:--|:--|
 | 👤 **Name** | MD. MAHFUJUR RAHMAN |
-| 💼 **Profession** | IT Support Technician |
+| 💼 **Profession** | IT Support & Technician |
 | ⏳ **Experience** | 4+ years (2022 – present), self-employed |
 | 🌍 **Country** | Bangladesh |
 | 🎯 **Looking for** | Entry-level IT Support / Helpdesk role in Austria |
