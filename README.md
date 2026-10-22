@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/33825886/README.2.md)
 <!-- Repo name must be exactly your username: mahfujur-at (Public, branch: main) -->
 
 <div align="center">
@@ -29,7 +30,7 @@
 | ✅ **Availability** | Ready to start immediately · Willing to relocate |
 | 🛠️ **Track record** | 300+ happy clients · 300+ computers fixed |
 | 📧 **Email** | [mahfujur.at@gmail.com](mailto:mahfujur.at@gmail.com) |
-| 🌐 **Portfolio** | [mahfujur-at.github.io](https://mahfujur-at.github.io) |
+| 🌐 **Portfolio** | [mahfujur.at](https://mahfujur.at) |
 
 </div>
 
@@ -98,7 +99,7 @@ Since 2022 I have worked as a self-employed technician: I've fixed **300+ comput
 
 <!-- More pinned cards: copy the block above and change repo=YOUR_REPO_NAME -->
 
-🌐 **Live portfolio:** [mahfujur-at.github.io](https://mahfujur-at.github.io)
+🌐 **Live portfolio:** [mahfujur.at](https://mahfujur.at)
 
 </div>
 
@@ -127,9 +128,9 @@ Since 2022 I have worked as a self-employed technician: I've fixed **300+ comput
 
 <a href="mailto:mahfujur.at@gmail.com"><img src="https://img.shields.io/badge/Email-mahfujur.at%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
 <a href="https://wa.me/8801332111908"><img src="https://img.shields.io/badge/WhatsApp-Mahfujur%20Rahman-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/></a>
-<a href="https://www.linkedin.com/in/md-mahfujur-rahman28b61"><img src="https://img.shields.io/badge/LinkedIn-Mahfujur%20Rahman-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/profile.php?id=61552078375726"><img src="https://img.shields.io/badge/Facebook-Mahfujur%20Rahman-3b82f6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/></a>
-<a href="https://mahfujur-at.github.io"><img src="https://img.shields.io/badge/Portfolio-mahfujur--at.github.io-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mahfujur-at"><img src="https://img.shields.io/badge/LinkedIn-Mahfujur%20Rahman-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/mahfujur.at"><img src="https://img.shields.io/badge/Facebook-Mahfujur%20Rahman-3b82f6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/></a>
+<a href="https://mahfujur.at"><img src="https://img.shields.io/badge/Portfolio-mahfujur.at-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
 
 <br/><br/>
 
