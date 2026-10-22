@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mahfujur+%F0%9F%91%8B;IT+Support+Technician+%7C+4%2B+years;300%2B+computers+fixed+%F0%9F%92%BB;WordPress+%26+Elementor+Developer;Open+to+IT+Support+jobs+in+Austria+%F0%9F%87%A6%F0%9F%87%B9" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mahfujur+Rahman%F0%9F%91%8B;IT+Support+&+Technician+%7C+4%2B+years;300%2B+computers+fixed+%F0%9F%92%BB;WordPress+%26+Elementor+Developer;Open+to+IT+Support+jobs+in+Austria+%F0%9F%87%A6%F0%9F%87%B9" alt="Typing animation" />
 </a>
 
 <img src="./hack-intro.svg" width="100%" alt="Hack intro animation"/>
