@@ -3,12 +3,12 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mahfujur+Rahman+%F0%9F%91%8B;IT+Support+Technician+%7C+4%2B+years;300%2B+computers+fixed+%F0%9F%92%BB;WordPress+%26+Elementor+Developer;Open+to+IT+Support+jobs+in+Austria+%F0%9F%87%A6%F0%9F%87%B9" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mahfujur+%F0%9F%91%8B;IT+Support+Technician+%7C+4%2B+years;300%2B+computers+fixed+%F0%9F%92%BB;WordPress+%26+Elementor+Developer;Open+to+IT+Support+jobs+in+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing animation" />
 </a>
 
 <img src="./hack-intro.svg" width="100%" alt="Hack intro animation"/>
 
-![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-IT_Support_in_Austria-22c55e?style=for-the-badge&labelColor=0d1117)
+![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-IT_Support_in_Ireland-22c55e?style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Location-Bangladesh-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=googlemaps&logoColor=60a5fa)
 
 </div>
@@ -25,7 +25,7 @@
 | 💼 **Profession** | IT Support & Technician |
 | ⏳ **Experience** | 4+ years (2022 – present), self-employed |
 | 🌍 **Country** | Bangladesh |
-| 🎯 **Looking for** | Entry-level IT Support / Helpdesk role in Austria |
+| 🎯 **Looking for** | Entry-level IT Support / Helpdesk role in Ireland |
 | ✅ **Availability** | Ready to start immediately · Willing to relocate |
 | 🛠️ **Track record** | 300+ happy clients · 300+ computers fixed |
 | 📧 **Email** | [mahfujur.at@gmail.com](mailto:mahfujur.at@gmail.com) |
@@ -39,7 +39,7 @@
 
 I'm **MD. Mahfujur Rahman**, an IT Support Technician with **4+ years** of hands-on experience helping home users and small businesses.
 
-Since 2022 I have worked as a self-employed technician: I've fixed **300+ computers**, installed Windows 10/11 and MS Office 365, upgraded hardware, set up LAN/Wi-Fi networks, and built websites with WordPress, Elementor and WooCommerce. I give fast remote support with **TeamViewer & AnyDesk** and document every problem so it doesn't happen again.
+Since 2022 I have worked as a self-employed technician: I've fixed **300+ computers**, installed Windows 10/11 and MS Office 365, upgraded hardware, set up LAN/Wi-Fi networks, and I am now building websites with WordPress and Elementor. I give fast remote support with **TeamViewer & AnyDesk** and document every problem so it doesn't happen again.
 
 - 🔧 **Hardware & troubleshooting:** PC/laptop repair, upgrades, won't-start faults
 - 💿 **Windows & Linux:** installation, setup, software
@@ -47,7 +47,7 @@ Since 2022 I have worked as a self-employed technician: I've fixed **300+ comput
 - 🌐 **Network:** LAN/WAN, Wi-Fi, router setup
 - 🖨️ **Printer, scanner & CCTV** setup
 - 🧩 **WordPress, Elementor & WooCommerce** websites, shop and speed optimization
-- ⭐ **Core skills (self-rated "Ausgezeichnet" / Excellent):** Computer Hardware, Networking, Windows 11, MS Office 365, WordPress & Elementor, Hardware/Software Troubleshooting
+- ⭐ **Core skills (self-rated Excellent):** Computer Hardware, Networking, Windows 11, MS Office 365, WordPress & Elementor, Hardware/Software Troubleshooting
 
 > 💬 *My promise: I don't just fix your PC, I give you peace of mind.*
 
